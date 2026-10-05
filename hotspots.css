@@ -1,0 +1,14 @@
+.hotspot-stage{width:min(100%,var(--hotspot-width));max-width:100%}
+.hotspot-stage .hotspot-photo{display:block;width:100%;height:auto;max-height:none;overflow:hidden;background:#17262a}
+.hotspot-shadow,.hotspot-ink{fill:none;pointer-events:none;stroke-linecap:round;stroke-linejoin:round}
+.hotspot-shadow>*{stroke:#10252b;stroke-width:4px;vector-effect:non-scaling-stroke}
+.hotspot-ink>*{stroke:#ffe16a;stroke-width:2px;vector-effect:non-scaling-stroke}
+.hotspot-ink .hotspot-tip{fill:#ffe16a}
+.hotspot-region{fill:#ffe16a;fill-opacity:.12}
+.hotspot-guide{font-size:.76rem;color:var(--muted);line-height:1.4;margin-top:8px}
+.hotspot-context{display:flex;align-items:center;justify-content:center;gap:12px;margin:12px auto 0;font-size:.76rem;color:var(--muted)}
+.hotspot-context img{display:block;height:155px;width:auto;max-width:90px;object-fit:contain;border-radius:6px}
+.review-card .hotspot-context img{height:85px}
+.review-card .hotspot-stage{width:min(100%,calc(180px * var(--hotspot-ratio)));margin:0 auto 12px}
+.review-card .hotspot-photo{height:auto}
+@media(max-width:800px){.hotspot-stage{width:min(100%,var(--hotspot-width),calc(500px * var(--hotspot-ratio)))}}
