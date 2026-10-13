@@ -1,0 +1,442 @@
+{
+  "images": {
+    "face-side": {
+      "image": "assets/muscles/face-side.jpeg",
+      "imageRatio": 0.75,
+      "width": 768,
+      "height": 1024,
+      "source": "Axial Muscle Practice Sheet (Spring 2014).key",
+      "resource": "Data/image1-10.jpeg",
+      "sourceSha256": "262450b4e8950e3bc15d6d96f0ce7845495981f484d19b9d65e2d903b831815d",
+      "assetSha256": "f44721fe782abdd51de50e51e5508cbd8d030d3c01623f2a067a652c5d363a91"
+    },
+    "face-front": {
+      "image": "assets/muscles/face-front.jpeg",
+      "imageRatio": 0.75,
+      "width": 768,
+      "height": 1024,
+      "source": "Axial Muscle Practice Sheet (Spring 2014).key",
+      "resource": "Data/image2-12.jpeg",
+      "sourceSha256": "262450b4e8950e3bc15d6d96f0ce7845495981f484d19b9d65e2d903b831815d",
+      "assetSha256": "81191c0c91cd2bc2bcadcb17eedc8035bf17474d800e68354a9a3f96e2c9e92a"
+    },
+    "neck-diagram": {
+      "image": "assets/muscles/neck-diagram.png",
+      "imageRatio": 1.349290780141844,
+      "width": 761,
+      "height": 564,
+      "source": "Axial Muscle Practice Sheet (Spring 2014).key",
+      "resource": "Data/image3-14.png",
+      "sourceSha256": "262450b4e8950e3bc15d6d96f0ce7845495981f484d19b9d65e2d903b831815d",
+      "assetSha256": "fa69af44d1bc3e96527c6486c81f842bde31694d52ddbaa307f54fa972ddefd6"
+    },
+    "muscle-organization": {
+      "image": "assets/muscles/muscle-organization.png",
+      "imageRatio": 2.84070796460177,
+      "width": 642,
+      "height": 226,
+      "source": "Exercise 7  8 study sheets - 238.key",
+      "resource": "Data/image22-52.png",
+      "sourceSha256": "97518849bc134dfc5b5303cf5915564340c0ba31a26e8e8e70d16cc9407d66b7",
+      "assetSha256": "e26fbb77462f7f6981af3306c8827e49166a6984584aa4c4442ed35a9492ba9b"
+    },
+    "torso-front": {
+      "image": "assets/muscles/torso-front.png",
+      "imageRatio": 0.75,
+      "width": 480,
+      "height": 640,
+      "source": "Axial Muscle Practice Sheet (Spring 2014).key",
+      "resource": "Data/image10-28.png",
+      "sourceSha256": "262450b4e8950e3bc15d6d96f0ce7845495981f484d19b9d65e2d903b831815d",
+      "assetSha256": "38af4b99f2210c775c290ec90fc08f757f79c24f49538607098778cdaf5b9650"
+    },
+    "back-split": {
+      "image": "assets/muscles/back-split.png",
+      "imageRatio": 0.7506142506142506,
+      "width": 611,
+      "height": 814,
+      "source": "Axial Muscle Practice Sheet (Spring 2014).key",
+      "resource": "Data/image11-30.png",
+      "sourceSha256": "262450b4e8950e3bc15d6d96f0ce7845495981f484d19b9d65e2d903b831815d",
+      "assetSha256": "4595f8840502b1868a4c192cc464392cebd5c34d8755c2625662b9f29ff1acbe"
+    },
+    "abdominal": {
+      "image": "assets/muscles/abdominal.jpeg",
+      "imageRatio": 0.75,
+      "width": 960,
+      "height": 1280,
+      "source": "Axial Muscle Practice Sheet (Spring 2014).key",
+      "resource": "Data/image5-18.jpeg",
+      "sourceSha256": "262450b4e8950e3bc15d6d96f0ce7845495981f484d19b9d65e2d903b831815d",
+      "assetSha256": "8f927df611805757c7545c5d3f23e2ca8b8eaf2e59fda0e1388db5744761e251"
+    },
+    "internal": {
+      "image": "assets/muscles/internal.jpeg",
+      "imageRatio": 0.75,
+      "width": 960,
+      "height": 1280,
+      "source": "Axial Muscle Practice Sheet (Spring 2014).key",
+      "resource": "Data/image6-20.jpeg",
+      "sourceSha256": "262450b4e8950e3bc15d6d96f0ce7845495981f484d19b9d65e2d903b831815d",
+      "assetSha256": "8f123274b67ea2a5b304395a2940ea99c407d30cb224afe4bc93193dbd4ee2ec"
+    },
+    "shoulder-anterior": {
+      "image": "assets/muscles/shoulder-anterior.jpeg",
+      "imageRatio": 0.75,
+      "width": 960,
+      "height": 1280,
+      "source": "Axial Muscle Practice Sheet (Spring 2014).key",
+      "resource": "Data/image9-26.jpeg",
+      "sourceSha256": "262450b4e8950e3bc15d6d96f0ce7845495981f484d19b9d65e2d903b831815d",
+      "assetSha256": "6fd6428b62bd130f97d9368d10d2c9b75f00a920ab492964fe0fb1563b5a344f"
+    },
+    "shoulder-posterior": {
+      "image": "assets/muscles/shoulder-posterior.jpeg",
+      "imageRatio": 0.75,
+      "width": 960,
+      "height": 1280,
+      "source": "Exercise 8 Appendicular Muscle Practice Sheet labeled.key",
+      "resource": "Data/image1-10.jpeg",
+      "sourceSha256": "81e74a697b4aa9db85f00bcdb0a860896221731e79463c5adc9328ad402aa9e7",
+      "assetSha256": "2bfe4b76f48031636df7fec82a2c47db01e21bf3ffb04b455eee55594269e9e9"
+    },
+    "back-full": {
+      "image": "assets/muscles/back-full.jpeg",
+      "imageRatio": 0.75,
+      "width": 768,
+      "height": 1024,
+      "source": "Axial Muscle Practice Sheet (Spring 2014).key",
+      "resource": "Data/image7-22.jpeg",
+      "sourceSha256": "262450b4e8950e3bc15d6d96f0ce7845495981f484d19b9d65e2d903b831815d",
+      "assetSha256": "6a6e3ec7f66a0287da41bb8dde48fb98a605aa7870353cbf490845997215ca08"
+    },
+    "face-diagram-front": {
+      "image": "assets/muscles/face-diagram-front.png",
+      "imageRatio": 0.8611713665943601,
+      "width": 397,
+      "height": 461,
+      "source": "Exercise 7  8 study sheets - 238.key",
+      "resource": "Data/image9-26.png",
+      "sourceSha256": "97518849bc134dfc5b5303cf5915564340c0ba31a26e8e8e70d16cc9407d66b7",
+      "assetSha256": "17a612cf0a69e6885747a27bec12603fc174d160245fb6a047354995bd4cdf0d"
+    },
+    "face-diagram-side": {
+      "image": "assets/muscles/face-diagram-side.png",
+      "imageRatio": 0.9222222222222223,
+      "width": 415,
+      "height": 450,
+      "source": "Exercise 7  8 study sheets - 238.key",
+      "resource": "Data/image10-28.png",
+      "sourceSha256": "97518849bc134dfc5b5303cf5915564340c0ba31a26e8e8e70d16cc9407d66b7",
+      "assetSha256": "7c39436133276f85078b9b84cc988864085103b24f6b9cec638c63f831e4e1e6"
+    },
+    "chest-diagram": {
+      "image": "assets/muscles/chest-diagram.png",
+      "imageRatio": 1.1295180722891567,
+      "width": 375,
+      "height": 332,
+      "source": "Exercise 7  8 study sheets - 238.key",
+      "resource": "Data/image13-34.png",
+      "sourceSha256": "97518849bc134dfc5b5303cf5915564340c0ba31a26e8e8e70d16cc9407d66b7",
+      "assetSha256": "ec409db93e346147b83df8a8ed9fd106ad675f0d3c1092de4386bb129713845d"
+    },
+    "internal-diagram": {
+      "image": "assets/muscles/internal-diagram.png",
+      "imageRatio": 0.9444444444444444,
+      "width": 323,
+      "height": 342,
+      "source": "Exercise 7  8 study sheets - 238.key",
+      "resource": "Data/image11-30.png",
+      "sourceSha256": "97518849bc134dfc5b5303cf5915564340c0ba31a26e8e8e70d16cc9407d66b7",
+      "assetSha256": "281169892b1df072a1aa1277a1a80c0224edb624d64da45ca3a3383cf56b357d"
+    },
+    "cuff-diagram": {
+      "image": "assets/muscles/cuff-diagram.png",
+      "imageRatio": 1.6680672268907564,
+      "width": 397,
+      "height": 238,
+      "source": "Exercise 7  8 study sheets - 238.key",
+      "resource": "Data/image15-38.png",
+      "sourceSha256": "97518849bc134dfc5b5303cf5915564340c0ba31a26e8e8e70d16cc9407d66b7",
+      "assetSha256": "3723f71c3707fba95b70359c66156c061ba43371913813bc5e60b944c90bc9cf"
+    },
+    "arm-diagram": {
+      "image": "assets/muscles/arm-diagram.png",
+      "imageRatio": 1.5163636363636364,
+      "width": 417,
+      "height": 275,
+      "source": "Exercise 7  8 study sheets - 238.key",
+      "resource": "Data/image16-40.png",
+      "sourceSha256": "97518849bc134dfc5b5303cf5915564340c0ba31a26e8e8e70d16cc9407d66b7",
+      "assetSha256": "eff314c5fc6a7fda83517924393b45861670352b1195806fb0afac523d4501d3"
+    },
+    "gluteal-diagram": {
+      "image": "assets/muscles/gluteal-diagram.png",
+      "imageRatio": 2.0700389105058368,
+      "width": 532,
+      "height": 257,
+      "source": "Exercise 7  8 study sheets - 238.key",
+      "resource": "Data/image23-54.png",
+      "sourceSha256": "97518849bc134dfc5b5303cf5915564340c0ba31a26e8e8e70d16cc9407d66b7",
+      "assetSha256": "dd7c92f979700c6592e8aa370baaf736593badaf553be6ecc8b00ea37305154e"
+    },
+    "gluteal-deep-diagram": {
+      "image": "assets/muscles/gluteal-deep-diagram.png",
+      "imageRatio": 1.6691449814126393,
+      "width": 449,
+      "height": 269,
+      "source": "Exercise 7  8 study sheets - 238.key",
+      "resource": "Data/image24-56.png",
+      "sourceSha256": "97518849bc134dfc5b5303cf5915564340c0ba31a26e8e8e70d16cc9407d66b7",
+      "assetSha256": "8d9b0167a317becc506e6e68d77d67554e27d70bd6f20d5fb2903132f0aa3951"
+    },
+    "forearm-ulnar-diagram": {
+      "image": "assets/muscles/forearm-ulnar-diagram.png",
+      "imageRatio": 2.610526315789474,
+      "width": 744,
+      "height": 285,
+      "source": "Exercise 7  8 study sheets - 238.key",
+      "resource": "Data/image21-50.png",
+      "sourceSha256": "97518849bc134dfc5b5303cf5915564340c0ba31a26e8e8e70d16cc9407d66b7",
+      "assetSha256": "8ef204b8609c909044d8aa44271c98f22cd12aec2916a925e2d2013a9384caf4"
+    },
+    "forearm-anterior": {
+      "image": "assets/muscles/forearm-anterior.jpeg",
+      "imageRatio": 0.7497425334706488,
+      "width": 728,
+      "height": 971,
+      "source": "Exercise 8 Appendicular Muscle Practice Sheet labeled.key",
+      "resource": "Data/image5-18.jpeg",
+      "sourceSha256": "81e74a697b4aa9db85f00bcdb0a860896221731e79463c5adc9328ad402aa9e7",
+      "assetSha256": "1a478496d7586f21123f83f7f35edbc602ed2160738d33e6975a3a8018c61da8"
+    },
+    "forearm-anterior-deep": {
+      "image": "assets/muscles/forearm-anterior-deep.jpeg",
+      "imageRatio": 0.7497425334706488,
+      "width": 728,
+      "height": 971,
+      "source": "Exercise 8 Appendicular Muscle Practice Sheet labeled.key",
+      "resource": "Data/image6-20.jpeg",
+      "sourceSha256": "81e74a697b4aa9db85f00bcdb0a860896221731e79463c5adc9328ad402aa9e7",
+      "assetSha256": "02515473f15a13e65ea14eae511b65764ec29fa74aaf5362dea844051eb8a44e"
+    },
+    "forearm-posterior": {
+      "image": "assets/muscles/forearm-posterior.jpeg",
+      "imageRatio": 0.7497425334706488,
+      "width": 728,
+      "height": 971,
+      "source": "Exercise 8 Appendicular Muscle Practice Sheet labeled.key",
+      "resource": "Data/image8-24.jpeg",
+      "sourceSha256": "81e74a697b4aa9db85f00bcdb0a860896221731e79463c5adc9328ad402aa9e7",
+      "assetSha256": "c1573d6f6a8a115af4cab01c548014641a9919de2d1c931e0b2279a9d9e2ba39"
+    },
+    "forearm-posterior-alt": {
+      "image": "assets/muscles/forearm-posterior-alt.jpeg",
+      "imageRatio": 0.7497425334706488,
+      "width": 728,
+      "height": 971,
+      "source": "Exercise 8 Appendicular Muscle Practice Sheet labeled.key",
+      "resource": "Data/image9-26.jpeg",
+      "sourceSha256": "81e74a697b4aa9db85f00bcdb0a860896221731e79463c5adc9328ad402aa9e7",
+      "assetSha256": "ef54b48d89d1ed09e205e3df4c97c7d65fcbbecf56323bea9f12b0a38855e4fc"
+    },
+    "forearm-posterior-deep": {
+      "image": "assets/muscles/forearm-posterior-deep.jpeg",
+      "imageRatio": 1.3338954468802697,
+      "width": 1582,
+      "height": 1186,
+      "source": "Muscle+models+no+labels.key",
+      "resource": "Data/image15-38.jpeg",
+      "sourceSha256": "bd1c94380428062afe15572a47385e09dd6eaf94f4b9cff3e835e4df3753c9f8",
+      "assetSha256": "12b04c74f044ffe82f44592bdd6724e3f365370d6d81933c4606fe6a8d24515d"
+    },
+    "thigh-anterior": {
+      "image": "assets/muscles/thigh-anterior.jpeg",
+      "imageRatio": 1.333616298811545,
+      "width": 1571,
+      "height": 1178,
+      "source": "Exercise 8 Appendicular Muscle Practice Sheet labeled.key",
+      "resource": "Data/image13-34.jpeg",
+      "sourceSha256": "81e74a697b4aa9db85f00bcdb0a860896221731e79463c5adc9328ad402aa9e7",
+      "assetSha256": "ab64ef7734608a18ac6703790e447c8e384e1023752a05b69d97467e72bc03dc"
+    },
+    "thigh-deep": {
+      "image": "assets/muscles/thigh-deep.jpeg",
+      "imageRatio": 1.3388357949609035,
+      "width": 1541,
+      "height": 1151,
+      "source": "Exercise 8 Appendicular Muscle Practice Sheet labeled.key",
+      "resource": "Data/image12-32.jpeg",
+      "sourceSha256": "81e74a697b4aa9db85f00bcdb0a860896221731e79463c5adc9328ad402aa9e7",
+      "assetSha256": "8ae3d53af380465660486570c5f5bb07a42f44c497fdaa10c9a1343cff3c4f5f"
+    },
+    "thigh-posterior": {
+      "image": "assets/muscles/thigh-posterior.jpeg",
+      "imageRatio": 1.3330449826989619,
+      "width": 1541,
+      "height": 1156,
+      "source": "Exercise 8 Appendicular Muscle Practice Sheet labeled.key",
+      "resource": "Data/image10-28.jpeg",
+      "sourceSha256": "81e74a697b4aa9db85f00bcdb0a860896221731e79463c5adc9328ad402aa9e7",
+      "assetSha256": "facb72cd35e1ee4284604d775513136037d3cff34503efac381c3cf358ecca28"
+    },
+    "thigh-medial": {
+      "image": "assets/muscles/thigh-medial.png",
+      "imageRatio": 0.26095238095238094,
+      "width": 274,
+      "height": 1050,
+      "source": "Exercise 8 Appendicular Muscle Practice Sheet labeled.key",
+      "resource": "Data/image11-30.png",
+      "sourceSha256": "81e74a697b4aa9db85f00bcdb0a860896221731e79463c5adc9328ad402aa9e7",
+      "assetSha256": "42e546198c935cec5c255670776f4ca38970d22c1294ad36f1ecae761fb213f4"
+    },
+    "thigh-medial-superficial": {
+      "image": "assets/muscles/thigh-medial-superficial.jpg",
+      "imageRatio": 2.4703049759229536,
+      "width": 1539,
+      "height": 623,
+      "source": "Virtual+Practical+3.pdf",
+      "resource": "PDF page 23",
+      "sourceSha256": "89d8da1293c72d3911fd6633760c8e4077c9af2de8e74f4296cbb6be947bbb6c",
+      "assetSha256": "495126caff344c25acaaf585eda4aa55a362c294ea9e0399c1aa0a67a20b2a63"
+    },
+    "leg-anterior": {
+      "image": "assets/muscles/leg-anterior.jpeg",
+      "imageRatio": 1.3339041095890412,
+      "width": 1558,
+      "height": 1168,
+      "source": "Exercise 8 Appendicular Muscle Practice Sheet labeled.key",
+      "resource": "Data/image14-36.jpeg",
+      "sourceSha256": "81e74a697b4aa9db85f00bcdb0a860896221731e79463c5adc9328ad402aa9e7",
+      "assetSha256": "e865d38dcc0f2496d4ed94b50dc4930e36d4624f767346a7501a50ec116687d6"
+    },
+    "leg-lateral": {
+      "image": "assets/muscles/leg-lateral.jpeg",
+      "imageRatio": 1.3368506493506493,
+      "width": 1647,
+      "height": 1232,
+      "source": "Exercise 8 Appendicular Muscle Practice Sheet labeled.key",
+      "resource": "Data/image15-38.jpeg",
+      "sourceSha256": "81e74a697b4aa9db85f00bcdb0a860896221731e79463c5adc9328ad402aa9e7",
+      "assetSha256": "a2a648c70c150eef0878018f670c6722882eddb5cd1748a9465b7394ec0546d6"
+    },
+    "leg-posterior": {
+      "image": "assets/muscles/leg-posterior.jpeg",
+      "imageRatio": 1.3330449826989619,
+      "width": 1541,
+      "height": 1156,
+      "source": "Exercise 8 Appendicular Muscle Practice Sheet labeled.key",
+      "resource": "Data/image16-40.jpeg",
+      "sourceSha256": "81e74a697b4aa9db85f00bcdb0a860896221731e79463c5adc9328ad402aa9e7",
+      "assetSha256": "4a17d07e34d8b718f4f82668d23d4b82f206f8724a7ade6d80ee90b2915d8a2d"
+    },
+    "leg-deep": {
+      "image": "assets/muscles/leg-deep.jpeg",
+      "imageRatio": 1.3330449826989619,
+      "width": 1541,
+      "height": 1156,
+      "source": "Exercise 8 Appendicular Muscle Practice Sheet labeled.key",
+      "resource": "Data/image17-42.jpeg",
+      "sourceSha256": "81e74a697b4aa9db85f00bcdb0a860896221731e79463c5adc9328ad402aa9e7",
+      "assetSha256": "81ff69cc30623b036fdf8f9b71535e1770bb2bfba886c7bfae52d68a0abb2884"
+    },
+    "torso-alt": {
+      "image": "assets/muscles/torso-alt.jpeg",
+      "imageRatio": 0.75,
+      "width": 1236,
+      "height": 1648,
+      "source": "Muscle+models+no+labels.key",
+      "resource": "Data/image7-22.jpeg",
+      "sourceSha256": "bd1c94380428062afe15572a47385e09dd6eaf94f4b9cff3e835e4df3753c9f8",
+      "assetSha256": "3e194ec33a5e512dd72d1d90ba4ba8f2df851f5a442d311bc47f2d58859c41f2"
+    },
+    "back-alt": {
+      "image": "assets/muscles/back-alt.jpeg",
+      "imageRatio": 0.75,
+      "width": 1236,
+      "height": 1648,
+      "source": "Muscle+models+no+labels.key",
+      "resource": "Data/image6-20.jpeg",
+      "sourceSha256": "bd1c94380428062afe15572a47385e09dd6eaf94f4b9cff3e835e4df3753c9f8",
+      "assetSha256": "84e291a21ae0bd78e1829a59785d84954655de0912cd46ce8a6dc90dc7a6c8ff"
+    },
+    "abdominal-alt": {
+      "image": "assets/muscles/abdominal-alt.jpeg",
+      "imageRatio": 0.75,
+      "width": 1236,
+      "height": 1648,
+      "source": "Muscle+models+no+labels.key",
+      "resource": "Data/image4-16.jpeg",
+      "sourceSha256": "bd1c94380428062afe15572a47385e09dd6eaf94f4b9cff3e835e4df3753c9f8",
+      "assetSha256": "8984b40bb4138dd6cf3b74af591d8206f48e830e79cc557a125d9166fd5d7874"
+    },
+    "forearm-anterior-alt": {
+      "image": "assets/muscles/forearm-anterior-alt.jpeg",
+      "imageRatio": 0.75,
+      "width": 1236,
+      "height": 1648,
+      "source": "Muscle+models+no+labels.key",
+      "resource": "Data/image10-28.jpeg",
+      "sourceSha256": "bd1c94380428062afe15572a47385e09dd6eaf94f4b9cff3e835e4df3753c9f8",
+      "assetSha256": "0f56bf6246159e3ca8b0bdf7faa9bb4d6b585061118b0415ae185ed9c3a41db7"
+    },
+    "skeletal-tissue": {
+      "image": "assets/muscles/skeletal-tissue.png",
+      "imageRatio": 1.0313152400835073,
+      "width": 494,
+      "height": 479,
+      "source": "Virtual+Practical+3.pdf",
+      "resource": "PDF page 6",
+      "sourceSha256": "89d8da1293c72d3911fd6633760c8e4077c9af2de8e74f4296cbb6be947bbb6c",
+      "assetSha256": "d0805ec306f80bb06b882757ef485ab7c3cbb415cbbe6d1adf497108a646877e"
+    },
+    "cardiac-tissue": {
+      "image": "assets/muscles/cardiac-tissue.png",
+      "imageRatio": 1.3022727272727272,
+      "width": 573,
+      "height": 440,
+      "source": "Virtual+Practical+3.pdf",
+      "resource": "PDF page 7",
+      "sourceSha256": "89d8da1293c72d3911fd6633760c8e4077c9af2de8e74f4296cbb6be947bbb6c",
+      "assetSha256": "f0d721af43b2c4de63db4318eb5952bdb097f66e483199b4c0654460840adae1"
+    }
+  },
+  "sources": [
+    {
+      "file": "Axial Muscle Practice Sheet (Spring 2014).key",
+      "sha256": "262450b4e8950e3bc15d6d96f0ce7845495981f484d19b9d65e2d903b831815d",
+      "imageCount": 11,
+      "pages": null
+    },
+    {
+      "file": "Exercise 7  8 study sheets - 238.key",
+      "sha256": "97518849bc134dfc5b5303cf5915564340c0ba31a26e8e8e70d16cc9407d66b7",
+      "imageCount": 31,
+      "pages": null
+    },
+    {
+      "file": "Exercise 8 Appendicular Muscle Practice Sheet labeled.key",
+      "sha256": "81e74a697b4aa9db85f00bcdb0a860896221731e79463c5adc9328ad402aa9e7",
+      "imageCount": 17,
+      "pages": null
+    },
+    {
+      "file": "Muscle+models+no+labels.key",
+      "sha256": "bd1c94380428062afe15572a47385e09dd6eaf94f4b9cff3e835e4df3753c9f8",
+      "imageCount": 31,
+      "pages": null
+    },
+    {
+      "file": "Practical 3_238 Term Sheet.pages",
+      "sha256": "27aca4a84e21b05802116a2fad203023a7a734185b2373bf542136deadfcefd1",
+      "imageCount": 0,
+      "pages": null
+    },
+    {
+      "file": "Virtual+Practical+3.pdf",
+      "sha256": "89d8da1293c72d3911fd6633760c8e4077c9af2de8e74f4296cbb6be947bbb6c",
+      "imageCount": 30,
+      "pages": 27
+    }
+  ]
+}
