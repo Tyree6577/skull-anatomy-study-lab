@@ -1,0 +1,34 @@
+[
+  {
+    "asset": "synovial-components.png",
+    "original": "Screenshot 2026-10-14 at 8.55.55 PM.png",
+    "sha256": "2c80fbe28a793e5150dcef80636a693e3c2a6f241a1b48435b3d14243ab32bef",
+    "width": 1565,
+    "height": 1173,
+    "preparation": "Original screenshot bytes retained. Responsive SVG crops/markers and display-only contrast adjustment."
+  },
+  {
+    "asset": "joint-types.png",
+    "original": "Screenshot 2026-10-14 at 8.55.28 PM.png",
+    "sha256": "ba44567dd48ce9e849361c6ab58b5ce00bcd2283590695cf5796dc3793673371",
+    "width": 1556,
+    "height": 1164,
+    "preparation": "Original screenshot bytes retained. Responsive SVG crops/markers and display-only contrast adjustment."
+  },
+  {
+    "asset": "cartilaginous-types.png",
+    "original": "Screenshot 2026-10-14 at 8.55.01 PM.png",
+    "sha256": "9757c95f5482c0a60307814441523aae84690fa036af92bd3eb5bc0190f2305f",
+    "width": 1740,
+    "height": 1291,
+    "preparation": "Original screenshot bytes retained. Responsive SVG crops/markers and display-only contrast adjustment."
+  },
+  {
+    "asset": "fibrous-types.png",
+    "original": "Screenshot 2026-10-14 at 8.54.36 PM.png",
+    "sha256": "db056a952f551bbcea920b74c06c763d93bab26a52dae95c2b0c05d79ca6ee5c",
+    "width": 1773,
+    "height": 1292,
+    "preparation": "Original screenshot bytes retained. Responsive SVG crops/markers and display-only contrast adjustment."
+  }
+]

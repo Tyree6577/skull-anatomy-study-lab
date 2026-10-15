@@ -1,0 +1,4 @@
+/* Display-only contrast for faint uploaded line drawings; existing images unchanged. */
+.joint-image .hotspot-photo{background:#fff}
+.joint-image svg image{filter:grayscale(1) invert(1) brightness(4) invert(1)}
+.joint-image.joint-photo svg image{filter:none}
