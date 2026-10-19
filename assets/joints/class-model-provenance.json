@@ -1,0 +1,32 @@
+[
+  {
+    "source": "IMG_9225.pdf",
+    "page": 1,
+    "sourceSha256": "1720f5013ffbbdc08715ced59f33ecb9c480c5b331c234c880527c91f1de76e0",
+    "image": "class-model-9225.jpg",
+    "width": 1350,
+    "height": 1800,
+    "sha256": "256f12e9bcd29d3b17f83cbf6013ab543ed10b4f79287e6e8a5841f4a32bfd33",
+    "processing": "PDF page rendered at 1800px longest edge, JPEG quality 94; no anatomy retouched. Crops and indicators are SVG overlays."
+  },
+  {
+    "source": "IMG_9226.pdf",
+    "page": 1,
+    "sourceSha256": "595b208ce2306bc963b8d135430c530636170d43c8b184660d22dbd42adb6777",
+    "image": "class-model-9226.jpg",
+    "width": 1350,
+    "height": 1800,
+    "sha256": "e694be22572ac2fe39a91b44f49ccd181b970573482059e5b9b34b4a5427b3fa",
+    "processing": "PDF page rendered at 1800px longest edge, JPEG quality 94; no anatomy retouched. Crops and indicators are SVG overlays."
+  },
+  {
+    "source": "IMG_9227.pdf",
+    "page": 1,
+    "sourceSha256": "0483e531bf9d358b02d7198cb153a7293800847d75b64c7d34bb0386ac6e9487",
+    "image": "class-model-9227.jpg",
+    "width": 1350,
+    "height": 1800,
+    "sha256": "03c3962f364110c7b0b10d5a2caf78343a5d5ad91e312709b398b5dc4f865890",
+    "processing": "PDF page rendered at 1800px longest edge, JPEG quality 94; no anatomy retouched. Crops and indicators are SVG overlays."
+  }
+]
