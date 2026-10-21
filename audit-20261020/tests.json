@@ -1,0 +1,47 @@
+{
+  "questionCount": 676,
+  "visualQuestions": 517,
+  "uniqueImagesLoaded": 122,
+  "changedIds": [
+    "sk-12",
+    "sk-n01",
+    "sk-n08",
+    "m3-torso-alt-rectus-abdominis",
+    "e1-ref-2-37",
+    "e1-ref-3-37",
+    "e1-ref-3-44",
+    "e1-ref-2-03",
+    "e1-region-popliteal",
+    "e1-region-coxal"
+  ],
+  "allOtherFieldsUnchanged": true,
+  "responsiveChecks": [
+    {
+      "width": 1440,
+      "height": 1000,
+      "count": 507,
+      "failures": []
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "count": 507,
+      "failures": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "count": 507,
+      "failures": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "count": 507,
+      "failures": []
+    }
+  ],
+  "correctAnswerEntryTests": 10,
+  "examAndMissedReview": true,
+  "browserErrors": []
+}
