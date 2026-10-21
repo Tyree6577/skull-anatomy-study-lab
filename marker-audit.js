@@ -1,4 +1,4 @@
-// Targeted 2026-10-20 marker corrections. Coordinates remain relative to the
+// Targeted 2026-10-20/21 marker corrections. Coordinates remain relative to the
 // original image; no answers, prompts, categories, or quiz behavior are changed.
 (() => {
   const pointer=(x,y,fromX,fromY,crop)=>({type:'pointer',x,y,fromX,fromY,crop});
@@ -13,7 +13,16 @@
     'e1-ref-3-44':pointer(31.5,43,23,58),
     'e1-ref-2-03':ellipse(66.8,70,1.3,2,[53,2,35,98]),
     'e1-region-popliteal':ellipse(66.8,70,1.3,2,[53,2,35,98]),
-    'e1-region-coxal':ellipse(33,46.8,.65,1.4,[9,2,36,97])
+    'e1-region-coxal':ellipse(33,46.8,.65,1.4,[9,2,36,97]),
+    // Matching C14 model key: 34 = zygomaticus minor; 36 = major.
+    // Both endpoints avoid the neighboring blue facial vessel and slip 33.
+    'm3-face-front-zygomaticus-major':ellipse(37.5,47.7,1,1.1,[13,20,70,58]),
+    'm3-face-front-zygomaticus-minor':ellipse(49.2,46.5,.8,1,[13,20,70,58]),
+    // End on the root/socket interface, not the center of the tooth root.
+    'j3-tooth-socket-name':pointer(28.9,80,37,74,[5,51,36,41]),
+    'j3-tooth-socket-structural':pointer(28.9,80,37,74,[5,51,36,41]),
+    'j3-tooth-socket-subtype':pointer(28.9,80,37,74,[5,51,36,41]),
+    'j3-tooth-socket-functional':pointer(28.9,80,37,74,[5,51,36,41])
   };
   for(const [id,hotspot] of Object.entries(corrections)){
     const q=Q.find(item=>item.id===id);

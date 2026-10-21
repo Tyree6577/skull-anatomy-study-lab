@@ -1,0 +1,539 @@
+{
+  "origin": "https://skull-anatomy-practical-lab.dawsontyree89.chatgpt.site/",
+  "allQuestions": 679,
+  "originalQuestionsUnchanged": 676,
+  "newQuestions": [
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "answer": "External intercostals",
+      "alternatives": [
+        "External intercostal",
+        "External intercostal muscles",
+        "External intercostal muscle"
+      ],
+      "muscleGroup": "axial_muscles",
+      "category": "Axial Muscles",
+      "view": "Thoracic wall · uploaded close-up model",
+      "hotspot": {
+        "type": "ellipse",
+        "x": 37,
+        "y": 38.5,
+        "rx": 2,
+        "ry": 1.3,
+        "crop": [
+          20,
+          18,
+          58,
+          48
+        ]
+      },
+      "tip": "The outline is within the superficial intercostal belly between the bony ribs, lateral to the costochondral junction. It does not mark the blue costal cartilage or the differently directed medial intercostal fibers.",
+      "unit": "muscles",
+      "units": [
+        "muscles"
+      ],
+      "visual": true,
+      "cumulative": true,
+      "questionType": "visual-identification",
+      "topics": [
+        "axial_muscles"
+      ],
+      "region": "Axial Muscles",
+      "subcategory": "Thoracic wall · uploaded close-up model",
+      "bone": "Muscle identification",
+      "prompt": "Identify the indicated muscle.",
+      "source": "Uploaded classroom photograph · IMG_9269.heic",
+      "sourceReferences": [
+        "IMG_9269.heic",
+        "Practical 3_238 Term Sheet.pages"
+      ],
+      "verification": "muscles-reviewed-location",
+      "image": "assets/muscles/new-20261021/img-9269.jpg",
+      "imageRatio": 0.75,
+      "imageHeight": 570,
+      "markerReview": {
+        "date": "2026-10-21",
+        "anatomicalReview": "Superficial external rib surface; inferomedial fibers lateral to the costochondral junction. The neighboring medial intercostal layer is outside the indicator."
+      }
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "answer": "Tensor fasciae latae",
+      "alternatives": [
+        "Tensor fascia latae",
+        "Tensor fascia lata",
+        "Tensor fasciae latae muscle",
+        "TFL"
+      ],
+      "muscleGroup": "appendicular_muscles",
+      "category": "Appendicular Muscles",
+      "view": "Hip and thigh · uploaded anterior model",
+      "hotspot": {
+        "type": "box",
+        "x": 77.2,
+        "y": 37.6,
+        "w": 2,
+        "h": 3.2,
+        "crop": [
+          53,
+          23,
+          30,
+          42
+        ]
+      },
+      "tip": "The box is within the short lateral hip muscle belly, lateral to the oblique sartorius and above the iliotibial tract. It is not on the pale fascia or the larger quadriceps belly below.",
+      "unit": "muscles",
+      "units": [
+        "muscles"
+      ],
+      "visual": true,
+      "cumulative": true,
+      "questionType": "visual-identification",
+      "topics": [
+        "appendicular_muscles"
+      ],
+      "region": "Appendicular Muscles",
+      "subcategory": "Hip and thigh · uploaded anterior model",
+      "bone": "Muscle identification",
+      "prompt": "Identify the indicated muscle.",
+      "source": "Uploaded classroom photograph · IMG_9276.heic",
+      "sourceReferences": [
+        "IMG_9276.heic",
+        "Practical 3_238 Term Sheet.pages"
+      ],
+      "verification": "muscles-reviewed-location",
+      "image": "assets/muscles/new-20261021/img-9276.jpg",
+      "imageRatio": 0.75,
+      "imageHeight": 570,
+      "markerReview": {
+        "date": "2026-10-21",
+        "anatomicalReview": "Discrete proximal anterolateral thigh belly, immediately lateral to the sartorius origin; distal continuity toward the iliotibial tract."
+      }
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "answer": "Adductor longus",
+      "alternatives": [
+        "Adductor longus muscle"
+      ],
+      "muscleGroup": "appendicular_muscles",
+      "category": "Appendicular Muscles",
+      "view": "Hip and thigh · uploaded anterior model",
+      "hotspot": {
+        "type": "ellipse",
+        "x": 60.8,
+        "y": 51,
+        "rx": 1.05,
+        "ry": 1.5,
+        "crop": [
+          53,
+          37,
+          29,
+          42
+        ]
+      },
+      "tip": "The outline is within the superficial triangular medial-thigh belly, lateral to the slender gracilis and medial to the crossing sartorius. It avoids the pubic tendon, femoral vessels and neighboring quadriceps.",
+      "unit": "muscles",
+      "units": [
+        "muscles"
+      ],
+      "visual": true,
+      "cumulative": true,
+      "questionType": "visual-identification",
+      "topics": [
+        "appendicular_muscles"
+      ],
+      "region": "Appendicular Muscles",
+      "subcategory": "Hip and thigh · uploaded anterior model",
+      "bone": "Muscle identification",
+      "prompt": "Identify the indicated muscle.",
+      "source": "Uploaded classroom photograph · IMG_9276.heic",
+      "sourceReferences": [
+        "IMG_9276.heic",
+        "Practical 3_238 Term Sheet.pages"
+      ],
+      "verification": "muscles-reviewed-location",
+      "image": "assets/muscles/new-20261021/img-9276.jpg",
+      "imageRatio": 0.75,
+      "imageHeight": 570,
+      "markerReview": {
+        "date": "2026-10-21",
+        "anatomicalReview": "Superficial triangular adductor arising near the pubis and spreading toward the femoral shaft, between gracilis medially and sartorius laterally; not the deeper adductor brevis."
+      }
+    }
+  ],
+  "submissions": [
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "response": "External intercostals",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: External intercostals\nThe outline is within the superficial intercostal belly between the bony ribs, lateral to the costochondral junction. It does not mark the blue costal cartilage or the differently directed medial intercostal fibers.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "response": "  EXTERNAL   INTERCOSTALS  ",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: External intercostals\nThe outline is within the superficial intercostal belly between the bony ribs, lateral to the costochondral junction. It does not mark the blue costal cartilage or the differently directed medial intercostal fibers.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "response": "External intercostals.",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: External intercostals\nThe outline is within the superficial intercostal belly between the bony ribs, lateral to the costochondral junction. It does not mark the blue costal cartilage or the differently directed medial intercostal fibers.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "response": "External intercostal",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: External intercostals\nThe outline is within the superficial intercostal belly between the bony ribs, lateral to the costochondral junction. It does not mark the blue costal cartilage or the differently directed medial intercostal fibers.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "response": "External intercostal muscles",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: External intercostals\nThe outline is within the superficial intercostal belly between the bony ribs, lateral to the costochondral junction. It does not mark the blue costal cartilage or the differently directed medial intercostal fibers.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "response": "External intercostal muscle",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: External intercostals\nThe outline is within the superficial intercostal belly between the bony ribs, lateral to the costochondral junction. It does not mark the blue costal cartilage or the differently directed medial intercostal fibers.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "response": "Internal intercostals",
+      "expectedCorrect": false,
+      "feedback": "Identification / content error. Correct answer: External intercostals\nThe outline is within the superficial intercostal belly between the bony ribs, lateral to the costochondral junction. It does not mark the blue costal cartilage or the differently directed medial intercostal fibers.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "response": "potato salad",
+      "expectedCorrect": false,
+      "feedback": "Identification / content error. Correct answer: External intercostals\nThe outline is within the superficial intercostal belly between the bony ribs, lateral to the costochondral junction. It does not mark the blue costal cartilage or the differently directed medial intercostal fibers.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "response": "Tensor fasciae latae",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Tensor fasciae latae\nThe box is within the short lateral hip muscle belly, lateral to the oblique sartorius and above the iliotibial tract. It is not on the pale fascia or the larger quadriceps belly below.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "response": "  TENSOR   FASCIAE   LATAE  ",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Tensor fasciae latae\nThe box is within the short lateral hip muscle belly, lateral to the oblique sartorius and above the iliotibial tract. It is not on the pale fascia or the larger quadriceps belly below.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "response": "Tensor fasciae latae.",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Tensor fasciae latae\nThe box is within the short lateral hip muscle belly, lateral to the oblique sartorius and above the iliotibial tract. It is not on the pale fascia or the larger quadriceps belly below.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "response": "Tensor fascia latae",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Tensor fasciae latae\nThe box is within the short lateral hip muscle belly, lateral to the oblique sartorius and above the iliotibial tract. It is not on the pale fascia or the larger quadriceps belly below.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "response": "Tensor fascia lata",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Tensor fasciae latae\nThe box is within the short lateral hip muscle belly, lateral to the oblique sartorius and above the iliotibial tract. It is not on the pale fascia or the larger quadriceps belly below.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "response": "Tensor fasciae latae muscle",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Tensor fasciae latae\nThe box is within the short lateral hip muscle belly, lateral to the oblique sartorius and above the iliotibial tract. It is not on the pale fascia or the larger quadriceps belly below.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "response": "TFL",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Tensor fasciae latae\nThe box is within the short lateral hip muscle belly, lateral to the oblique sartorius and above the iliotibial tract. It is not on the pale fascia or the larger quadriceps belly below.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "response": "Sartorius",
+      "expectedCorrect": false,
+      "feedback": "Identification / content error. Correct answer: Tensor fasciae latae\nThe box is within the short lateral hip muscle belly, lateral to the oblique sartorius and above the iliotibial tract. It is not on the pale fascia or the larger quadriceps belly below.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "response": "potato salad",
+      "expectedCorrect": false,
+      "feedback": "Identification / content error. Correct answer: Tensor fasciae latae\nThe box is within the short lateral hip muscle belly, lateral to the oblique sartorius and above the iliotibial tract. It is not on the pale fascia or the larger quadriceps belly below.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "response": "Adductor longus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Adductor longus\nThe outline is within the superficial triangular medial-thigh belly, lateral to the slender gracilis and medial to the crossing sartorius. It avoids the pubic tendon, femoral vessels and neighboring quadriceps.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "response": "  ADDUCTOR   LONGUS  ",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Adductor longus\nThe outline is within the superficial triangular medial-thigh belly, lateral to the slender gracilis and medial to the crossing sartorius. It avoids the pubic tendon, femoral vessels and neighboring quadriceps.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "response": "Adductor longus.",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Adductor longus\nThe outline is within the superficial triangular medial-thigh belly, lateral to the slender gracilis and medial to the crossing sartorius. It avoids the pubic tendon, femoral vessels and neighboring quadriceps.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "response": "Adductor longus muscle",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Adductor longus\nThe outline is within the superficial triangular medial-thigh belly, lateral to the slender gracilis and medial to the crossing sartorius. It avoids the pubic tendon, femoral vessels and neighboring quadriceps.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "response": "Adductor brevis",
+      "expectedCorrect": false,
+      "feedback": "Identification / content error. Correct answer: Adductor longus\nThe outline is within the superficial triangular medial-thigh belly, lateral to the slender gracilis and medial to the crossing sartorius. It avoids the pubic tendon, femoral vessels and neighboring quadriceps.",
+      "scorePassed": true
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "response": "potato salad",
+      "expectedCorrect": false,
+      "feedback": "Identification / content error. Correct answer: Adductor longus\nThe outline is within the superficial triangular medial-thigh belly, lateral to the slender gracilis and medial to the crossing sartorius. It avoids the pubic tendon, femoral vessels and neighboring quadriceps.",
+      "scorePassed": true
+    }
+  ],
+  "selections": [
+    {
+      "preset": "axial_muscles",
+      "topics": [
+        "axial_muscles"
+      ],
+      "count": 32,
+      "newQuestions": [
+        "m3-photo9269-external-intercostals"
+      ],
+      "passed": true
+    },
+    {
+      "preset": "appendicular_muscles",
+      "topics": [
+        "appendicular_muscles"
+      ],
+      "count": 80,
+      "newQuestions": [
+        "m3-photo9276-adductor-longus",
+        "m3-photo9276-tensor-fasciae-latae"
+      ],
+      "passed": true
+    },
+    {
+      "preset": "muscles",
+      "topics": [
+        "axial_muscles",
+        "appendicular_muscles",
+        "muscle_foundations"
+      ],
+      "count": 116,
+      "newQuestions": [
+        "m3-photo9276-adductor-longus",
+        "m3-photo9269-external-intercostals",
+        "m3-photo9276-tensor-fasciae-latae"
+      ],
+      "passed": true
+    },
+    {
+      "preset": "custom",
+      "topics": [
+        "axial_muscles"
+      ],
+      "count": 32,
+      "newQuestions": [
+        "m3-photo9269-external-intercostals"
+      ],
+      "passed": true
+    },
+    {
+      "preset": "custom",
+      "topics": [
+        "appendicular_muscles"
+      ],
+      "count": 80,
+      "newQuestions": [
+        "m3-photo9276-adductor-longus",
+        "m3-photo9276-tensor-fasciae-latae"
+      ],
+      "passed": true
+    },
+    {
+      "preset": "custom",
+      "topics": [
+        "axial_muscles",
+        "appendicular_muscles"
+      ],
+      "count": 112,
+      "newQuestions": [
+        "m3-photo9269-external-intercostals",
+        "m3-photo9276-tensor-fasciae-latae",
+        "m3-photo9276-adductor-longus"
+      ],
+      "passed": true
+    },
+    {
+      "preset": "custom",
+      "topics": [
+        "skull"
+      ],
+      "count": 56,
+      "newQuestions": [],
+      "passed": true
+    },
+    {
+      "preset": "everything",
+      "topics": [],
+      "count": 679,
+      "newQuestions": [
+        "m3-photo9276-tensor-fasciae-latae",
+        "m3-photo9269-external-intercostals",
+        "m3-photo9276-adductor-longus"
+      ],
+      "passed": true
+    }
+  ],
+  "crossAnswers": [],
+  "questionCountTests": [
+    5,
+    3
+  ],
+  "randomizationPassed": true,
+  "examScore": "2 / 3",
+  "missedReviewAndRetryPassed": true,
+  "responsive": [
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "width": 516.5625,
+      "sameTransform": true,
+      "height": 570,
+      "ratio": 0.90625,
+      "viewBox": [
+        20,
+        18,
+        58,
+        48
+      ],
+      "viewport": 1440,
+      "overflow": false,
+      "passed": true
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "width": 305.34375,
+      "sameTransform": true,
+      "height": 569.96875,
+      "ratio": 0.5357201600964965,
+      "viewBox": [
+        53,
+        23,
+        30,
+        42
+      ],
+      "viewport": 1440,
+      "overflow": false,
+      "passed": true
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "width": 295.171875,
+      "sameTransform": true,
+      "height": 569.984375,
+      "ratio": 0.5178595904492996,
+      "viewBox": [
+        53,
+        37,
+        29,
+        42
+      ],
+      "viewport": 1440,
+      "overflow": false,
+      "passed": true
+    },
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "width": 312,
+      "sameTransform": true,
+      "height": 344.265625,
+      "ratio": 0.9062769482140426,
+      "viewBox": [
+        20,
+        18,
+        58,
+        48
+      ],
+      "viewport": 390,
+      "overflow": false,
+      "passed": true
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "width": 267.84375,
+      "sameTransform": true,
+      "height": 499.96875,
+      "ratio": 0.5357209825614101,
+      "viewBox": [
+        53,
+        23,
+        30,
+        42
+      ],
+      "viewport": 390,
+      "overflow": false,
+      "passed": true
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "width": 258.921875,
+      "sameTransform": true,
+      "height": 499.984375,
+      "ratio": 0.5178599331229101,
+      "viewBox": [
+        53,
+        37,
+        29,
+        42
+      ],
+      "viewport": 390,
+      "overflow": false,
+      "passed": true
+    }
+  ],
+  "remainingUncovered": [
+    "Brachialis",
+    "Iliacus",
+    "Psoas major",
+    "Vastus intermedius",
+    "Adductor brevis"
+  ],
+  "errors": []
+}
