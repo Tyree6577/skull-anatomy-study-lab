@@ -1,0 +1,1570 @@
+{
+  "origin": "https://skull-anatomy-practical-lab.dawsontyree89.chatgpt.site/",
+  "browser": "Normal visible Chrome, headed persistent context (not incognito)",
+  "muscleCount": 119,
+  "recentTargets": [
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "answer": "External intercostals",
+      "alternatives": [
+        "External intercostal",
+        "External intercostal muscles",
+        "External intercostal muscle"
+      ],
+      "muscleGroup": "axial_muscles",
+      "category": "Axial Muscles",
+      "view": "Thoracic wall · uploaded close-up model",
+      "hotspot": {
+        "type": "ellipse",
+        "x": 37,
+        "y": 38.5,
+        "rx": 2,
+        "ry": 1.3,
+        "crop": [
+          20,
+          18,
+          58,
+          48
+        ]
+      },
+      "tip": "The outline is within the superficial intercostal belly between the bony ribs, lateral to the costochondral junction. It does not mark the blue costal cartilage or the differently directed medial intercostal fibers.",
+      "unit": "muscles",
+      "units": [
+        "muscles"
+      ],
+      "visual": true,
+      "cumulative": true,
+      "questionType": "visual-identification",
+      "topics": [
+        "axial_muscles"
+      ],
+      "region": "Axial Muscles",
+      "subcategory": "Thoracic wall · uploaded close-up model",
+      "bone": "Muscle identification",
+      "prompt": "Identify the indicated muscle.",
+      "source": "Uploaded classroom photograph · IMG_9269.heic",
+      "sourceReferences": [
+        "IMG_9269.heic",
+        "Practical 3_238 Term Sheet.pages"
+      ],
+      "verification": "muscles-reviewed-location",
+      "image": "assets/muscles/new-20261021/img-9269.jpg",
+      "imageRatio": 0.75,
+      "imageHeight": 570,
+      "markerReview": {
+        "date": "2026-10-21",
+        "anatomicalReview": "Superficial external rib surface; inferomedial fibers lateral to the costochondral junction. The neighboring medial intercostal layer is outside the indicator."
+      }
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "answer": "Tensor fasciae latae",
+      "alternatives": [
+        "Tensor fascia latae",
+        "Tensor fascia lata",
+        "Tensor fasciae latae muscle",
+        "TFL"
+      ],
+      "muscleGroup": "appendicular_muscles",
+      "category": "Appendicular Muscles",
+      "view": "Hip and thigh · uploaded anterior model",
+      "hotspot": {
+        "type": "box",
+        "x": 77.2,
+        "y": 37.6,
+        "w": 2,
+        "h": 3.2,
+        "crop": [
+          53,
+          23,
+          30,
+          42
+        ]
+      },
+      "tip": "The box is within the short lateral hip muscle belly, lateral to the oblique sartorius and above the iliotibial tract. It is not on the pale fascia or the larger quadriceps belly below.",
+      "unit": "muscles",
+      "units": [
+        "muscles"
+      ],
+      "visual": true,
+      "cumulative": true,
+      "questionType": "visual-identification",
+      "topics": [
+        "appendicular_muscles"
+      ],
+      "region": "Appendicular Muscles",
+      "subcategory": "Hip and thigh · uploaded anterior model",
+      "bone": "Muscle identification",
+      "prompt": "Identify the indicated muscle.",
+      "source": "Uploaded classroom photograph · IMG_9276.heic",
+      "sourceReferences": [
+        "IMG_9276.heic",
+        "Practical 3_238 Term Sheet.pages"
+      ],
+      "verification": "muscles-reviewed-location",
+      "image": "assets/muscles/new-20261021/img-9276.jpg",
+      "imageRatio": 0.75,
+      "imageHeight": 570,
+      "markerReview": {
+        "date": "2026-10-21",
+        "anatomicalReview": "Discrete proximal anterolateral thigh belly, immediately lateral to the sartorius origin; distal continuity toward the iliotibial tract."
+      }
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "answer": "Adductor longus",
+      "alternatives": [
+        "Adductor longus muscle"
+      ],
+      "muscleGroup": "appendicular_muscles",
+      "category": "Appendicular Muscles",
+      "view": "Hip and thigh · uploaded anterior model",
+      "hotspot": {
+        "type": "ellipse",
+        "x": 60.8,
+        "y": 51,
+        "rx": 1.05,
+        "ry": 1.5,
+        "crop": [
+          53,
+          37,
+          29,
+          42
+        ]
+      },
+      "tip": "The outline is within the superficial triangular medial-thigh belly, lateral to the slender gracilis and medial to the crossing sartorius. It avoids the pubic tendon, femoral vessels and neighboring quadriceps.",
+      "unit": "muscles",
+      "units": [
+        "muscles"
+      ],
+      "visual": true,
+      "cumulative": true,
+      "questionType": "visual-identification",
+      "topics": [
+        "appendicular_muscles"
+      ],
+      "region": "Appendicular Muscles",
+      "subcategory": "Hip and thigh · uploaded anterior model",
+      "bone": "Muscle identification",
+      "prompt": "Identify the indicated muscle.",
+      "source": "Uploaded classroom photograph · IMG_9276.heic",
+      "sourceReferences": [
+        "IMG_9276.heic",
+        "Practical 3_238 Term Sheet.pages"
+      ],
+      "verification": "muscles-reviewed-location",
+      "image": "assets/muscles/new-20261021/img-9276.jpg",
+      "imageRatio": 0.75,
+      "imageHeight": 570,
+      "markerReview": {
+        "date": "2026-10-21",
+        "anatomicalReview": "Superficial triangular adductor arising near the pubis and spreading toward the femoral shaft, between gracilis medially and sartorius laterally; not the deeper adductor brevis."
+      }
+    },
+    {
+      "id": "m3-models-ppt-slide13-brachialis",
+      "unit": "muscles",
+      "units": [
+        "muscles"
+      ],
+      "visual": true,
+      "cumulative": true,
+      "questionType": "visual-identification",
+      "topics": [
+        "appendicular_muscles"
+      ],
+      "muscleGroup": "appendicular_muscles",
+      "region": "Appendicular Muscles",
+      "category": "Appendicular Muscles",
+      "subcategory": "Upper arm · posterolateral model, deltoid removed",
+      "view": "Upper arm · posterolateral model, deltoid removed",
+      "bone": "Muscle identification",
+      "answer": "Brachialis",
+      "alternatives": [
+        "Brachialis muscle",
+        "Musculus brachialis"
+      ],
+      "prompt": "Identify the indicated muscle.",
+      "tip": "The outline lies in the exposed distal lateral upper-arm belly, deep to the biceps margin and anterior to triceps. It stays above the elbow, away from the radial nerve and the forearm brachioradialis.",
+      "source": "Muscle+models.pptx · slide 13 photograph",
+      "sourceReferences": [
+        "Muscle+models.pptx, slide 13 (corroborating labeled views: slides 8–10 and 12–14)",
+        "ppt/media/image13.jpeg"
+      ],
+      "verification": "muscles-reviewed-location",
+      "image": "assets/muscles/models-ppt-20261021/slide13.jpeg",
+      "imageRatio": 0.75,
+      "imageHeight": 620,
+      "hotspot": {
+        "type": "ellipse",
+        "x": 34.1,
+        "y": 54.8,
+        "rx": 1.15,
+        "ry": 2,
+        "crop": [
+          23,
+          15,
+          49,
+          80
+        ]
+      },
+      "markerReview": {
+        "date": "2026-10-21",
+        "evidence": "Slide 13 brachialis arrow, corroborated by the anterior and alternate posterolateral views. The marker is inside the exposed muscle belly, not on the radial nerve or adjoining triceps/biceps."
+      }
+    },
+    {
+      "id": "m3-models-ppt-slide18-vastus-intermedius",
+      "unit": "muscles",
+      "units": [
+        "muscles"
+      ],
+      "visual": true,
+      "cumulative": true,
+      "questionType": "visual-identification",
+      "topics": [
+        "appendicular_muscles"
+      ],
+      "muscleGroup": "appendicular_muscles",
+      "region": "Appendicular Muscles",
+      "category": "Appendicular Muscles",
+      "subcategory": "Thigh · anterior deep model, rectus femoris removed",
+      "view": "Thigh · anterior deep model, rectus femoris removed",
+      "bone": "Muscle identification",
+      "answer": "Vastus intermedius",
+      "alternatives": [
+        "Vastus intermedius muscle",
+        "Musculus vastus intermedius"
+      ],
+      "prompt": "Identify the indicated muscle.",
+      "tip": "The outline isolates the exposed central deep quadriceps component after rectus femoris is removed. Its visible surface includes a broad pale aponeurosis; identify the muscle as a whole, not the painted vessels crossing it. Vastus lateralis and vastus medialis remain outside the outlined field.",
+      "source": "Muscle+models.pptx · slide 18 photograph",
+      "sourceReferences": [
+        "Muscle+models.pptx, slide 18",
+        "ppt/media/image18.jpeg",
+        "3B Scientific M20 model key, structure 22"
+      ],
+      "verification": "muscles-reviewed-location",
+      "image": "assets/muscles/models-ppt-20261021/slide18-upright.jpeg",
+      "imageRatio": 0.7469175859831279,
+      "imageHeight": 620,
+      "hotspot": {
+        "type": "region",
+        "points": [
+          [
+            62.5,
+            27.5
+          ],
+          [
+            64.2,
+            30
+          ],
+          [
+            63.6,
+            37
+          ],
+          [
+            61.5,
+            45
+          ],
+          [
+            59.8,
+            53
+          ],
+          [
+            57,
+            61
+          ],
+          [
+            54.5,
+            66
+          ],
+          [
+            50.2,
+            66
+          ],
+          [
+            48.8,
+            60
+          ],
+          [
+            49.3,
+            49
+          ],
+          [
+            50.7,
+            39
+          ],
+          [
+            52.7,
+            32
+          ],
+          [
+            56,
+            28
+          ]
+        ],
+        "crop": [
+          29,
+          0,
+          48,
+          86
+        ],
+        "note": "Identify the muscle represented by the whole outlined field, rather than an individual painted vessel."
+      },
+      "markerReview": {
+        "date": "2026-10-21",
+        "evidence": "Slide 18 labels the exposed central component as vastus intermedius; the matching M20 key independently identifies model structure 22 as this muscle. Region isolation avoids a misleading dot on a vessel or adjacent vastus. The supplied photograph is rotated 90 degrees clockwise for an upright view; no anatomical content is changed."
+      }
+    },
+    {
+      "id": "m3-models-ppt-slide20-adductor-brevis",
+      "unit": "muscles",
+      "units": [
+        "muscles"
+      ],
+      "visual": true,
+      "cumulative": true,
+      "questionType": "visual-identification",
+      "topics": [
+        "appendicular_muscles"
+      ],
+      "muscleGroup": "appendicular_muscles",
+      "region": "Appendicular Muscles",
+      "category": "Appendicular Muscles",
+      "subcategory": "Thigh · posterior model, class-labeled target",
+      "view": "Thigh · posterior model, class-labeled target",
+      "bone": "Muscle identification",
+      "answer": "Adductor brevis",
+      "alternatives": [
+        "Adductor brevis muscle",
+        "Musculus adductor brevis"
+      ],
+      "prompt": "Identify the indicated muscle using the class slide’s terminology.",
+      "tip": "This station follows the class slide’s Adductor brevis label at the original arrow endpoint. It is a course-labeled target, not an independently anatomy-verified identification; the model-key discrepancy remains noted in Coverage.",
+      "source": "Muscle+models.pptx · slide 20 · instructor-labeled target",
+      "sourceReferences": [
+        "Muscle+models.pptx, slide 20",
+        "ppt/media/image20.jpeg",
+        "User-confirmed class screenshot, 2026-10-21"
+      ],
+      "verification": "muscles-course-labeled-location",
+      "image": "assets/muscles/models-ppt-20261021/slide20-upright.jpeg",
+      "imageRatio": 0.7482154445165476,
+      "imageHeight": 620,
+      "hotspot": {
+        "type": "pointer",
+        "x": 54.756,
+        "y": 19.459,
+        "fromX": 68,
+        "fromY": 15,
+        "crop": [
+          35,
+          0,
+          37,
+          63
+        ]
+      },
+      "markerReview": {
+        "date": "2026-10-21",
+        "evidence": "Exact slide 20 instructor arrow endpoint transferred through the slide crop and 90-degree photograph rotation. Stored answer follows the instructor label at the user’s explicit request. Independent anatomical identity remains unresolved.",
+        "independentlyVerified": false,
+        "courseLabelConfirmed": true
+      }
+    }
+  ],
+  "studentRun": {
+    "questionCount": 119,
+    "order": [
+      "m3-gluteal-diagram-gluteus-medius",
+      "m3-face-front-zygomaticus-major",
+      "m3-muscle-organization-tendon",
+      "m3-chest-diagram-external-oblique",
+      "m3-photo9276-tensor-fasciae-latae",
+      "m3-muscle-organization-muscle-fascicle",
+      "m3-face-front-zygomaticus-minor",
+      "m3-skeletal-tissue-skeletal-muscle-tissue",
+      "m3-face-front-orbicularis-oculi",
+      "m3-leg-anterior-extensor-hallucis-longus",
+      "m3-cardiac-tissue-cardiac-muscle-tissue",
+      "m3-back-full-trapezius",
+      "m3-face-front-frontal-belly",
+      "m3-shoulder-anterior-subscapularis",
+      "m3-face-diagram-front-buccinator",
+      "m3-forearm-posterior-extensor-carpi-radialis-longus",
+      "m3-photo9269-external-intercostals",
+      "m3-leg-anterior-tibialis-anterior",
+      "m3-internal-transversus-abdominis",
+      "m3-forearm-anterior-flexor-carpi-ulnaris",
+      "m3-face-diagram-side-sternocleidomastoid",
+      "m3-thigh-anterior-vastus-lateralis",
+      "m3-face-diagram-front-orbicularis-oris",
+      "m3-forearm-posterior-brachioradialis",
+      "m3-abdominal-internal-oblique",
+      "m3-back-alt-latissimus-dorsi",
+      "m3-face-diagram-side-frontal-belly",
+      "m3-shoulder-posterior-teres-major",
+      "m3-face-side-orbicularis-oculi",
+      "m3-chest-diagram-pectoralis-major",
+      "m3-internal-diagram-diaphragm",
+      "m3-forearm-anterior-pronator-teres",
+      "m3-neck-diagram-platysma",
+      "m3-leg-deep-flexor-digitorum-longus",
+      "m3-abdominal-alt-rectus-abdominis",
+      "m3-leg-deep-tibialis-posterior",
+      "m3-torso-front-rectus-abdominis",
+      "m3-arm-diagram-deltoid",
+      "m3-face-side-temporalis",
+      "m3-back-split-trapezius",
+      "m3-abdominal-external-oblique",
+      "m3-torso-front-pectoralis-minor",
+      "m3-face-front-depressor-anguli-oris",
+      "m3-torso-front-pectoralis-major",
+      "m3-face-diagram-side-occipital-belly",
+      "m3-forearm-anterior-deep-flexor-digitorum-profundus",
+      "m3-face-side-sternocleidomastoid",
+      "m3-shoulder-posterior-triceps-brachii",
+      "m3-face-side-occipital-belly",
+      "m3-shoulder-posterior-teres-minor",
+      "m3-abdominal-rectus-abdominis",
+      "m3-leg-deep-popliteus",
+      "m3-face-diagram-front-zygomaticus-major",
+      "m3-leg-deep-flexor-hallucis-longus",
+      "m3-face-side-masseter",
+      "m3-leg-posterior-soleus",
+      "m3-face-front-orbicularis-oris",
+      "m3-torso-front-deltoid",
+      "m3-face-diagram-side-temporalis",
+      "m3-shoulder-anterior-biceps-brachii",
+      "m3-torso-alt-rectus-abdominis",
+      "m3-torso-front-serratus-anterior",
+      "m3-internal-internal-intercostals",
+      "m3-torso-alt-pectoralis-major",
+      "m3-torso-front-external-oblique",
+      "m3-leg-lateral-fibularis-brevis",
+      "m3-face-diagram-side-masseter",
+      "m3-back-full-deltoid",
+      "m3-forearm-anterior-flexor-digitorum-superficialis",
+      "m3-back-split-rhomboids",
+      "m3-shoulder-posterior-infraspinatus",
+      "m3-forearm-anterior-palmaris-longus",
+      "m3-thigh-posterior-semimembranosus",
+      "m3-thigh-posterior-biceps-femoris",
+      "m3-forearm-posterior-extensor-carpi-radialis-brevis",
+      "m3-thigh-posterior-semitendinosus",
+      "m3-models-ppt-slide20-adductor-brevis",
+      "m3-back-full-infraspinatus",
+      "m3-leg-posterior-gastrocnemius",
+      "m3-thigh-posterior-gluteus-maximus",
+      "m3-forearm-posterior-alt-extensor-digitorum",
+      "m3-models-ppt-slide18-vastus-intermedius",
+      "m3-thigh-deep-vastus-lateralis",
+      "m3-photo9276-adductor-longus",
+      "m3-thigh-anterior-rectus-femoris",
+      "m3-thigh-deep-vastus-medialis",
+      "m3-chest-diagram-pectoralis-minor",
+      "m3-thigh-medial-adductor-magnus",
+      "m3-thigh-medial-superficial-adductor-magnus",
+      "m3-forearm-anterior-flexor-carpi-radialis",
+      "m3-abdominal-pectoralis-major",
+      "m3-forearm-ulnar-diagram-extensor-carpi-ulnaris",
+      "m3-forearm-posterior-deep-supinator",
+      "m3-gluteal-diagram-gluteus-maximus",
+      "m3-leg-lateral-fibularis-longus",
+      "m3-cuff-diagram-infraspinatus",
+      "m3-cuff-diagram-supraspinatus",
+      "m3-forearm-anterior-alt-brachioradialis",
+      "m3-forearm-ulnar-diagram-extensor-digitorum",
+      "m3-cuff-diagram-subscapularis",
+      "m3-models-ppt-slide13-brachialis",
+      "m3-back-split-latissimus-dorsi",
+      "m3-back-full-teres-major",
+      "m3-shoulder-anterior-teres-major",
+      "m3-back-split-levator-scapulae",
+      "m3-forearm-anterior-deep-flexor-pollicis-longus",
+      "m3-arm-diagram-triceps-brachii",
+      "m3-gluteal-deep-diagram-gluteus-medius",
+      "m3-thigh-medial-superficial-gracilis",
+      "m3-shoulder-posterior-deltoid",
+      "m3-thigh-anterior-vastus-medialis",
+      "m3-back-alt-trapezius",
+      "m3-forearm-posterior-deep-abductor-pollicis-longus",
+      "m3-back-full-latissimus-dorsi",
+      "m3-forearm-posterior-extensor-digitorum",
+      "m3-thigh-anterior-sartorius",
+      "m3-thigh-anterior-iliopsoas",
+      "m3-leg-anterior-extensor-digitorum-longus",
+      "m3-chest-diagram-serratus-anterior"
+    ],
+    "correct": 113,
+    "deliberateErrors": 6,
+    "allSixMissesRetriedCorrectly": true
+  },
+  "submissions": [
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "response": "  EXTERNAL INTERCOSTAL  ",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: External intercostals\nThe outline is within the superficial intercostal belly between the bony ribs, lateral to the costochondral junction. It does not mark the blue costal cartilage or the differently directed medial intercostal fibers.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "response": "  TENSOR FASCIA LATAE  ",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Tensor fasciae latae\nThe box is within the short lateral hip muscle belly, lateral to the oblique sartorius and above the iliotibial tract. It is not on the pale fascia or the larger quadriceps belly below.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "response": "  ADDUCTOR LONGUS MUSCLE  ",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Adductor longus\nThe outline is within the superficial triangular medial-thigh belly, lateral to the slender gracilis and medial to the crossing sartorius. It avoids the pubic tendon, femoral vessels and neighboring quadriceps.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-models-ppt-slide13-brachialis",
+      "response": "  BRACHIALIS MUSCLE  ",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Brachialis\nThe outline lies in the exposed distal lateral upper-arm belly, deep to the biceps margin and anterior to triceps. It stays above the elbow, away from the radial nerve and the forearm brachioradialis.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-models-ppt-slide18-vastus-intermedius",
+      "response": "  VASTUS INTERMEDIUS MUSCLE  ",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Vastus intermedius\nThe outline isolates the exposed central deep quadriceps component after rectus femoris is removed. Its visible surface includes a broad pale aponeurosis; identify the muscle as a whole, not the painted vessels crossing it. Vastus lateralis and vastus medialis remain outside the outlined field.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-models-ppt-slide20-adductor-brevis",
+      "response": "  ADDUCTOR BREVIS MUSCLE  ",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Adductor brevis\nThis station follows the class slide’s Adductor brevis label at the original arrow endpoint. It is a course-labeled target, not an independently anatomy-verified identification; the model-key discrepancy remains noted in Coverage.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-gluteal-diagram-gluteus-medius",
+      "response": "Gluteus medius",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Gluteus medius\nThe marker isolates the exposed superior gluteal muscle above maximus.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-front-zygomaticus-major",
+      "response": "Zygomaticus major",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Zygomaticus major\nThe larger oblique slip runs toward the angle of the mouth.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-muscle-organization-tendon",
+      "response": "Tendon",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Tendon\nThe target is the narrow connective-tissue attachment at the end of the muscle.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-chest-diagram-external-oblique",
+      "response": "External oblique",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: External oblique\nThe target lies lateral to the rectus sheath on the abdominal wall.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "response": "Sartorius",
+      "expectedCorrect": false,
+      "feedback": "Identification / content error. Correct answer: Tensor fasciae latae\nThe box is within the short lateral hip muscle belly, lateral to the oblique sartorius and above the iliotibial tract. It is not on the pale fascia or the larger quadriceps belly below.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-muscle-organization-muscle-fascicle",
+      "response": "Muscle fascicle",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Muscle fascicle\nThe marker is on the pulled-out bundle of muscle fibers, not a single cell.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-front-zygomaticus-minor",
+      "response": "Zygomaticus minor",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Zygomaticus minor\nThis is the more superior, smaller oblique slip reaching the upper lip.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-skeletal-tissue-skeletal-muscle-tissue",
+      "response": "Skeletal muscle tissue",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Skeletal muscle tissue\nThe outlined field shows long parallel fibers with obvious cross-striations. The PDF key identifies the major type as muscular; the visible parallel striated fibers support skeletal muscle.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-front-orbicularis-oculi",
+      "response": "Orbicularis oculi",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Orbicularis oculi\nThe marker is on the ring around the eye, not the eyelid or forehead.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-leg-anterior-extensor-hallucis-longus",
+      "response": "Extensor hallucis longus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Extensor hallucis longus\nThe tip isolates the slender exposed strip between the adjacent anterior-compartment muscles.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-cardiac-tissue-cardiac-muscle-tissue",
+      "response": "Cardiac muscle tissue",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Cardiac muscle tissue\nThe outlined field is the cardiac muscle specimen identified by the supplied virtual-practical key.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-back-full-trapezius",
+      "response": "Trapezius",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Trapezius\nThe target is on the superficial sheet between the spine and shoulder.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-front-frontal-belly",
+      "response": "Frontal belly",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Frontal belly\nThe marker isolates the muscle of the forehead, above the orbital ring.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-shoulder-anterior-subscapularis",
+      "response": "Subscapularis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Subscapularis\nThe target is on the broad muscle covering the anterior surface of the scapula.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-diagram-front-buccinator",
+      "response": "Buccinator",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Buccinator\nThe marker lies within the horizontal cheek muscle deep to the muscles at the mouth angle.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-posterior-extensor-carpi-radialis-longus",
+      "response": "Extensor carpi radialis longus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Extensor carpi radialis longus\nThe marker is on the longer radial extensor, near its transition to tendon.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "response": "Internal intercostals",
+      "expectedCorrect": false,
+      "feedback": "Identification / content error. Correct answer: External intercostals\nThe outline is within the superficial intercostal belly between the bony ribs, lateral to the costochondral junction. It does not mark the blue costal cartilage or the differently directed medial intercostal fibers.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-leg-anterior-tibialis-anterior",
+      "response": "Tibialis anterior",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Tibialis anterior\nThe target is in the muscle immediately lateral to the anterior tibial border.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-internal-transversus-abdominis",
+      "response": "Transversus abdominis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Transversus abdominis\nThe marker sits on the deep lateral abdominal muscle with transverse fibers.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-anterior-flexor-carpi-ulnaris",
+      "response": "Flexor carpi ulnaris",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Flexor carpi ulnaris\nThe marker sits on the ulnar-edge superficial flexor.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-diagram-side-sternocleidomastoid",
+      "response": "Sternocleidomastoid",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Sternocleidomastoid\nThe outlined strap crosses the lateral neck.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-thigh-anterior-vastus-lateralis",
+      "response": "Vastus lateralis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Vastus lateralis\nThe target is in the lateral quadriceps belly, away from the oblique sartorius.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-diagram-front-orbicularis-oris",
+      "response": "Orbicularis oris",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Orbicularis oris\nThe outlined portion belongs to the muscle encircling the lips.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-posterior-brachioradialis",
+      "response": "Brachioradialis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Brachioradialis\nThe target is the lateral proximal forearm muscle, adjacent to the radial extensors.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-abdominal-internal-oblique",
+      "response": "Internal oblique",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Internal oblique\nThis exposed deeper lateral muscle has fibers directed superomedially.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-back-alt-latissimus-dorsi",
+      "response": "Latissimus dorsi",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Latissimus dorsi\nThe marker is on the broad lower-back sheet below the scapular region.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-diagram-side-frontal-belly",
+      "response": "Frontal belly",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Frontal belly\nThe forehead belly lies anterior to the temporal region.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-shoulder-posterior-teres-major",
+      "response": "Teres major",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Teres major\nThe larger inferior scapular band is below teres minor.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-side-orbicularis-oculi",
+      "response": "Orbicularis oculi",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Orbicularis oculi\nThe target is on the circular muscle surrounding the eye.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-chest-diagram-pectoralis-major",
+      "response": "Pectoralis major",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Pectoralis major\nThe target is within the broad superficial fan on the chest.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-internal-diagram-diaphragm",
+      "response": "Diaphragm",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Diaphragm\nThe target is within the cut dome separating thoracic and abdominal regions.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-anterior-pronator-teres",
+      "response": "Pronator teres",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Pronator teres\nThe target lies in the oblique proximal forearm muscle, above the flexor bellies.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-neck-diagram-platysma",
+      "response": "Platysma",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Platysma\nThe marker is within the broad superficial sheet spreading from the lower jaw over the anterior neck.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-leg-deep-flexor-digitorum-longus",
+      "response": "Flexor digitorum longus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Flexor digitorum longus\nThe target lies in the medial deep-flexor belly, above the central neurovascular bundle.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-abdominal-alt-rectus-abdominis",
+      "response": "Rectus abdominis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Rectus abdominis\nThe marker lies on a muscular belly between the white tendinous intersections.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-leg-deep-tibialis-posterior",
+      "response": "Tibialis posterior",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Tibialis posterior\nThe marker isolates the central deep muscle between the long digital flexors.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-torso-front-rectus-abdominis",
+      "response": "Rectus abdominis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Rectus abdominis\nThe box isolates one muscular segment beside the linea alba.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-arm-diagram-deltoid",
+      "response": "Deltoid",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Deltoid\nThe outlined area is within the shoulder cap.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-side-temporalis",
+      "response": "Temporalis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Temporalis\nThe target is within the red temporal muscle above the ear, not on the pale aponeurosis.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-back-split-trapezius",
+      "response": "Trapezius",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Trapezius\nThe marker sits on the superficial sheet of the upper back.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-abdominal-external-oblique",
+      "response": "External oblique",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: External oblique\nThe target is within the lateral superficial muscle, not its broad white aponeurosis.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-torso-front-pectoralis-minor",
+      "response": "Pectoralis minor",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Pectoralis minor\nThe smaller deep chest muscle crosses the exposed upper ribs toward the coracoid process.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-front-depressor-anguli-oris",
+      "response": "Depressor anguli oris",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Depressor anguli oris\nThe triangular slip descends from the angle of the mouth toward the mandible.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-torso-front-pectoralis-major",
+      "response": "Pectoralis major",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Pectoralis major\nThe marker is within the large superficial fan on the anterior chest.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-diagram-side-occipital-belly",
+      "response": "Occipital belly",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Occipital belly\nThe posterior scalp patch is behind the temporal muscle.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-anterior-deep-flexor-digitorum-profundus",
+      "response": "Flexor digitorum profundus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Flexor digitorum profundus\nThe marker isolates the deep medial finger-flexor belly after the superficial layer is removed.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-side-sternocleidomastoid",
+      "response": "Sternocleidomastoid",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Sternocleidomastoid\nFollow the oblique strap from the mastoid region toward the sternum and clavicle.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-shoulder-posterior-triceps-brachii",
+      "response": "Triceps brachii",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Triceps brachii\nThe posterior upper-arm belly lies proximal to the white elbow tendon.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-side-occipital-belly",
+      "response": "Occipital belly",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Occipital belly\nThe red muscle patch behind the ear belongs to the posterior scalp belly.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-shoulder-posterior-teres-minor",
+      "response": "Teres minor",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Teres minor\nThe small scapular band lies between infraspinatus and teres major.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-abdominal-rectus-abdominis",
+      "response": "Rectus abdominis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Rectus abdominis\nThe marker isolates a red muscular segment, not the white tendinous intersection.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-leg-deep-popliteus",
+      "response": "Popliteus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Popliteus\nThe target is on the short oblique muscle at the back of the knee.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-diagram-front-zygomaticus-major",
+      "response": "Zygomaticus major",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Zygomaticus major\nTrace this oblique slip from the zygomatic region toward the mouth angle.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-leg-deep-flexor-hallucis-longus",
+      "response": "Flexor hallucis longus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Flexor hallucis longus\nThe target lies in the large lateral deep-flexor belly.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-side-masseter",
+      "response": "Masseter",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Masseter\nThe target lies in the thick vertical muscle over the mandibular ramus.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-leg-posterior-soleus",
+      "response": "Soleus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Soleus\nThe exposed deeper calf muscle is visible beside gastrocnemius.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-front-orbicularis-oris",
+      "response": "Orbicularis oris",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Orbicularis oris\nThe marker follows the circular muscle around the mouth.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-torso-front-deltoid",
+      "response": "Deltoid",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Deltoid\nThe marker isolates the shoulder cap rather than the adjacent chest muscle.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-diagram-side-temporalis",
+      "response": "Temporalis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Temporalis\nThe fan-shaped temporal muscle sits above the zygomatic arch.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-shoulder-anterior-biceps-brachii",
+      "response": "Biceps brachii",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Biceps brachii\nThe marker is within the anterior upper-arm belly, not the tendon or neurovascular bundle.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-torso-alt-rectus-abdominis",
+      "response": "Rectus abdominis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Rectus abdominis\nThe outline isolates a muscular segment on the anterior abdomen.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-torso-front-serratus-anterior",
+      "response": "Serratus anterior",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Serratus anterior\nThe pointer ends on a muscular rib slip at the lateral thoracic wall.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-internal-internal-intercostals",
+      "response": "Internal intercostals",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Internal intercostals\nThe pointer tip is between two ribs on the internal chest-wall surface.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-torso-alt-pectoralis-major",
+      "response": "Pectoralis major",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Pectoralis major\nThe marker is within the large anterior chest fan.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-torso-front-external-oblique",
+      "response": "External oblique",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: External oblique\nThe marker lies in the superficial lateral abdominal wall, away from the rectus segments.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-leg-lateral-fibularis-brevis",
+      "response": "Fibularis brevis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Fibularis brevis\nThe marker isolates the shorter distal lateral belly adjacent to the fibula.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-face-diagram-side-masseter",
+      "response": "Masseter",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Masseter\nThe boxed area is within the broad muscle on the mandibular ramus.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-back-full-deltoid",
+      "response": "Deltoid",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Deltoid\nThe marker is within the posterior shoulder cap.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-anterior-flexor-digitorum-superficialis",
+      "response": "Flexor digitorum superficialis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Flexor digitorum superficialis\nThe pointer reaches the exposed finger-flexor tendon group before it passes into the palm.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-back-split-rhomboids",
+      "response": "Rhomboids",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Rhomboids\nThe outlined deep muscle region runs from the vertebral column to the medial border of the scapula.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-shoulder-posterior-infraspinatus",
+      "response": "Infraspinatus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Infraspinatus\nThe exposed scapular muscle is below the scapular spine, behind the shoulder cap.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-anterior-palmaris-longus",
+      "response": "Palmaris longus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Palmaris longus\nThe pointer tip ends on the slender central superficial tendon, not the neighboring nerves.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-thigh-posterior-semimembranosus",
+      "response": "Semimembranosus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Semimembranosus\nThe target isolates the broad medial hamstring visible deep to semitendinosus.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-thigh-posterior-biceps-femoris",
+      "response": "Biceps femoris",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Biceps femoris\nThe marker is within the lateral hamstring belly.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-posterior-extensor-carpi-radialis-brevis",
+      "response": "Extensor carpi radialis brevis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Extensor carpi radialis brevis\nThe target is the shorter radial extensor adjacent to the longus.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-thigh-posterior-semitendinosus",
+      "response": "Semitendinosus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Semitendinosus\nThe target is on the superficial medial hamstring with a long distal tendon.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-models-ppt-slide20-adductor-brevis",
+      "response": "Adductor longus",
+      "expectedCorrect": false,
+      "feedback": "Identification / content error. Correct answer: Adductor brevis\nThis station follows the class slide’s Adductor brevis label at the original arrow endpoint. It is a course-labeled target, not an independently anatomy-verified identification; the model-key discrepancy remains noted in Coverage.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-back-full-infraspinatus",
+      "response": "Infraspinatus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Infraspinatus\nThe target is on the scapular muscle below the scapular spine and above teres minor.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-leg-posterior-gastrocnemius",
+      "response": "Gastrocnemius",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Gastrocnemius\nThe marker is on the bulky superficial calf belly, not the calcaneal tendon.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-thigh-posterior-gluteus-maximus",
+      "response": "Gluteus maximus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Gluteus maximus\nThe marker sits in the broad superficial buttock muscle, proximal to the thigh.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-posterior-alt-extensor-digitorum",
+      "response": "Extensor digitorum",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Extensor digitorum\nThe target is within the central posterior forearm belly leading toward the finger tendons.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-models-ppt-slide18-vastus-intermedius",
+      "response": "Vastus lateralis",
+      "expectedCorrect": false,
+      "feedback": "Identification / content error. Correct answer: Vastus intermedius\nThe outline isolates the exposed central deep quadriceps component after rectus femoris is removed. Its visible surface includes a broad pale aponeurosis; identify the muscle as a whole, not the painted vessels crossing it. Vastus lateralis and vastus medialis remain outside the outlined field.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-thigh-deep-vastus-lateralis",
+      "response": "Vastus lateralis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Vastus lateralis\nThe target is in the lateral quadriceps belly beside the exposed central deep muscle.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "response": "Adductor magnus",
+      "expectedCorrect": false,
+      "feedback": "Identification / content error. Correct answer: Adductor longus\nThe outline is within the superficial triangular medial-thigh belly, lateral to the slender gracilis and medial to the crossing sartorius. It avoids the pubic tendon, femoral vessels and neighboring quadriceps.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-thigh-anterior-rectus-femoris",
+      "response": "Rectus femoris",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Rectus femoris\nThe marker isolates the central superficial quadriceps belly.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-thigh-deep-vastus-medialis",
+      "response": "Vastus medialis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Vastus medialis\nThe target is in the medial quadriceps belly adjacent to the exposed deep center.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-chest-diagram-pectoralis-minor",
+      "response": "Pectoralis minor",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Pectoralis minor\nThe smaller triangular muscle lies on the exposed deep chest wall.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-thigh-medial-adductor-magnus",
+      "response": "Adductor magnus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Adductor magnus\nThe target lies on the exposed deep medial adductor mass.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-thigh-medial-superficial-adductor-magnus",
+      "response": "Adductor magnus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Adductor magnus\nThe marker isolates the exposed adductor strip below the superficial medial strap.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-anterior-flexor-carpi-radialis",
+      "response": "Flexor carpi radialis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Flexor carpi radialis\nThe marker isolates the radial superficial flexor belly.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-abdominal-pectoralis-major",
+      "response": "Pectoralis major",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Pectoralis major\nThe upper fan is superficial to the chest wall.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-ulnar-diagram-extensor-carpi-ulnaris",
+      "response": "Extensor carpi ulnaris",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Extensor carpi ulnaris\nThe marker isolates the ulnar posterior border muscle, beside the central finger extensor.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-posterior-deep-supinator",
+      "response": "Supinator",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Supinator\nThe marker lies in the proximal exposed muscle wrapping around the radius.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-gluteal-diagram-gluteus-maximus",
+      "response": "Gluteus maximus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Gluteus maximus\nThe target is in the large superficial buttock muscle.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-leg-lateral-fibularis-longus",
+      "response": "Fibularis longus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Fibularis longus\nThe marker is within the proximal lateral-compartment muscle.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-cuff-diagram-infraspinatus",
+      "response": "Infraspinatus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Infraspinatus\nThe target lies below the scapular spine.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-cuff-diagram-supraspinatus",
+      "response": "Supraspinatus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Supraspinatus\nThe target is in the fossa superior to the scapular spine.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-anterior-alt-brachioradialis",
+      "response": "Brachioradialis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Brachioradialis\nThe target is the thick muscle along the radial border of the proximal forearm.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-ulnar-diagram-extensor-digitorum",
+      "response": "Extensor digitorum",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Extensor digitorum\nThe target is on the broad central extensor whose tendons continue toward the fingers.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-cuff-diagram-subscapularis",
+      "response": "Subscapularis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Subscapularis\nThe marker is on the anterior scapular surface in the right-hand view.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-models-ppt-slide13-brachialis",
+      "response": "Brachioradialis",
+      "expectedCorrect": false,
+      "feedback": "Identification / content error. Correct answer: Brachialis\nThe outline lies in the exposed distal lateral upper-arm belly, deep to the biceps margin and anterior to triceps. It stays above the elbow, away from the radial nerve and the forearm brachioradialis.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-back-split-latissimus-dorsi",
+      "response": "Latissimus dorsi",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Latissimus dorsi\nThe marker is within the broad superficial lower-back muscle.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-back-full-teres-major",
+      "response": "Teres major",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Teres major\nThe target lies on the thick inferior scapular band below teres minor.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-shoulder-anterior-teres-major",
+      "response": "Teres major",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Teres major\nThe marker is within the thick band inferior to subscapularis.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-back-split-levator-scapulae",
+      "response": "Levator scapulae",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Levator scapulae\nThe target is in the strap joining the upper cervical region to the superior medial scapula.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-anterior-deep-flexor-pollicis-longus",
+      "response": "Flexor pollicis longus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Flexor pollicis longus\nThe target is within the exposed deep radial belly continuing toward the thumb.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-arm-diagram-triceps-brachii",
+      "response": "Triceps brachii",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Triceps brachii\nThe marker lies within the posterior upper-arm muscle.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-gluteal-deep-diagram-gluteus-medius",
+      "response": "Gluteus medius",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Gluteus medius\nThe target is on the gluteal muscle exposed when the superficial layer is removed.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-thigh-medial-superficial-gracilis",
+      "response": "Gracilis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Gracilis\nThe outline is within the flat superficial medial strap identified in the supplied virtual-practical key.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-shoulder-posterior-deltoid",
+      "response": "Deltoid",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Deltoid\nThe marker isolates the superficial shoulder cap.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-thigh-anterior-vastus-medialis",
+      "response": "Vastus medialis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Vastus medialis\nThe target is in the distal medial quadriceps bulge beside the patella.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-back-alt-trapezius",
+      "response": "Trapezius",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Trapezius\nThe target is in the superficial upper-back sheet.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-posterior-deep-abductor-pollicis-longus",
+      "response": "Abductor pollicis longus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Abductor pollicis longus\nThe target is within the exposed oblique deep muscle continuing toward the thumb.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-back-full-latissimus-dorsi",
+      "response": "Latissimus dorsi",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Latissimus dorsi\nThe target lies below the scapular muscles in the broad lower-back sheet.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-forearm-posterior-extensor-digitorum",
+      "response": "Extensor digitorum",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Extensor digitorum\nThe marker is in the common finger-extensor belly, not the radial border muscle.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-thigh-anterior-sartorius",
+      "response": "Sartorius",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Sartorius\nThe marker follows the long narrow strap crossing the anterior thigh obliquely.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-thigh-anterior-iliopsoas",
+      "response": "Iliopsoas",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Iliopsoas\nThe target is on the proximal hip-flexor muscle approaching the femur.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-leg-anterior-extensor-digitorum-longus",
+      "response": "Extensor digitorum longus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Extensor digitorum longus\nThe marker isolates the more lateral anterior-compartment extensor.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-chest-diagram-serratus-anterior",
+      "response": "Serratus anterior",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Serratus anterior\nThe tip ends on one of the sawtooth muscular slips over the ribs.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-models-ppt-slide20-adductor-brevis",
+      "response": "Adductor brevis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Adductor brevis\nThis station follows the class slide’s Adductor brevis label at the original arrow endpoint. It is a course-labeled target, not an independently anatomy-verified identification; the model-key discrepancy remains noted in Coverage.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "response": "External intercostals",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: External intercostals\nThe outline is within the superficial intercostal belly between the bony ribs, lateral to the costochondral junction. It does not mark the blue costal cartilage or the differently directed medial intercostal fibers.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-models-ppt-slide18-vastus-intermedius",
+      "response": "Vastus intermedius",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Vastus intermedius\nThe outline isolates the exposed central deep quadriceps component after rectus femoris is removed. Its visible surface includes a broad pale aponeurosis; identify the muscle as a whole, not the painted vessels crossing it. Vastus lateralis and vastus medialis remain outside the outlined field.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "response": "Adductor longus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Adductor longus\nThe outline is within the superficial triangular medial-thigh belly, lateral to the slender gracilis and medial to the crossing sartorius. It avoids the pubic tendon, femoral vessels and neighboring quadriceps.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "response": "Tensor fasciae latae",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Tensor fasciae latae\nThe box is within the short lateral hip muscle belly, lateral to the oblique sartorius and above the iliotibial tract. It is not on the pale fascia or the larger quadriceps belly below.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-models-ppt-slide13-brachialis",
+      "response": "Brachialis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Brachialis\nThe outline lies in the exposed distal lateral upper-arm belly, deep to the biceps margin and anterior to triceps. It stays above the elbow, away from the radial nerve and the forearm brachioradialis.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "response": "External intercostals",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: External intercostals\nThe outline is within the superficial intercostal belly between the bony ribs, lateral to the costochondral junction. It does not mark the blue costal cartilage or the differently directed medial intercostal fibers.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "response": "Adductor longus",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Adductor longus\nThe outline is within the superficial triangular medial-thigh belly, lateral to the slender gracilis and medial to the crossing sartorius. It avoids the pubic tendon, femoral vessels and neighboring quadriceps.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "response": "Tensor fasciae latae",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Tensor fasciae latae\nThe box is within the short lateral hip muscle belly, lateral to the oblique sartorius and above the iliotibial tract. It is not on the pale fascia or the larger quadriceps belly below.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-models-ppt-slide13-brachialis",
+      "response": "Brachialis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Brachialis\nThe outline lies in the exposed distal lateral upper-arm belly, deep to the biceps margin and anterior to triceps. It stays above the elbow, away from the radial nerve and the forearm brachioradialis.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-models-ppt-slide18-vastus-intermedius",
+      "response": "Vastus intermedius",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Vastus intermedius\nThe outline isolates the exposed central deep quadriceps component after rectus femoris is removed. Its visible surface includes a broad pale aponeurosis; identify the muscle as a whole, not the painted vessels crossing it. Vastus lateralis and vastus medialis remain outside the outlined field.",
+      "scoringPassed": true
+    },
+    {
+      "id": "m3-models-ppt-slide20-adductor-brevis",
+      "response": "Adductor brevis",
+      "expectedCorrect": true,
+      "feedback": "Correct. Correct answer: Adductor brevis\nThis station follows the class slide’s Adductor brevis label at the original arrow endpoint. It is a course-labeled target, not an independently anatomy-verified identification; the model-key discrepancy remains noted in Coverage.",
+      "scoringPassed": true
+    }
+  ],
+  "selections": [
+    {
+      "preset": "axial_muscles",
+      "count": 32,
+      "passed": true
+    },
+    {
+      "preset": "appendicular_muscles",
+      "count": 83,
+      "passed": true
+    },
+    {
+      "preset": "everything",
+      "count": 682,
+      "passed": true
+    },
+    {
+      "preset": "custom",
+      "topics": [
+        "appendicular_muscles"
+      ],
+      "passed": true
+    }
+  ],
+  "responsive": [
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "view": "Thoracic wall · uploaded close-up model",
+      "width": 1360
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "view": "Hip and thigh · uploaded anterior model",
+      "width": 1360
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "view": "Hip and thigh · uploaded anterior model",
+      "width": 1360
+    },
+    {
+      "id": "m3-models-ppt-slide13-brachialis",
+      "view": "Upper arm · posterolateral model, deltoid removed",
+      "width": 1360
+    },
+    {
+      "id": "m3-models-ppt-slide18-vastus-intermedius",
+      "view": "Thigh · anterior deep model, rectus femoris removed",
+      "width": 1360
+    },
+    {
+      "id": "m3-models-ppt-slide20-adductor-brevis",
+      "view": "Thigh · posterior model, class-labeled target",
+      "width": 1360
+    },
+    {
+      "id": "m3-photo9269-external-intercostals",
+      "width": 390,
+      "aligned": true,
+      "ratio": 0.9062563823269113,
+      "overflow": false
+    },
+    {
+      "id": "m3-photo9276-adductor-longus",
+      "width": 390,
+      "aligned": true,
+      "ratio": 0.5178599331229101,
+      "overflow": false
+    },
+    {
+      "id": "m3-photo9276-tensor-fasciae-latae",
+      "width": 390,
+      "aligned": true,
+      "ratio": 0.5357198662458201,
+      "overflow": false
+    },
+    {
+      "id": "m3-models-ppt-slide13-brachialis",
+      "width": 390,
+      "aligned": true,
+      "ratio": 0.459375,
+      "overflow": false
+    },
+    {
+      "id": "m3-models-ppt-slide18-vastus-intermedius",
+      "width": 390,
+      "aligned": true,
+      "ratio": 0.4168880277508672,
+      "overflow": false
+    },
+    {
+      "id": "m3-models-ppt-slide20-adductor-brevis",
+      "width": 390,
+      "aligned": true,
+      "ratio": 0.4394287410740793,
+      "overflow": false
+    }
+  ],
+  "finalStats": {
+    "attempts": 137,
+    "identified": 131,
+    "spelled": 131,
+    "mastered": 119,
+    "spellingMistakes": 0
+  },
+  "errors": []
+}
